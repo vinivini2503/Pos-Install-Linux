@@ -105,7 +105,7 @@ sudo apt update
 sudo apt install code
 
 ## MySQL Workbench ##
-sudo apt install mysql-workbench
+sudo snap install mysql-workbench
 
 
 ## Instalando pacotes Flatpak ##
